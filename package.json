@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint rules for wox",
   "main": "index.js",
   "repository": {
