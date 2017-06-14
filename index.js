@@ -152,6 +152,7 @@ module.exports = {
         message: 'Please use import() instead. More info: https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#code-splitting',
       },
     ],
+    'indent': ['error', 2],
 
     // https://github.com/benmosher/eslint-plugin-import/tree/master/docs/rules
     'import/first': 2,
