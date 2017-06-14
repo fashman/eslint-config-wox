@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-wox",
+  "version": "0.0.1",
+  "description": "eslint rules for wox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firebugger/eslint-config-wox.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "wox"
+  ],
+  "author": "firebugger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firebugger/eslint-config-wox/issues"
+  },
+  "homepage": "https://github.com/firebugger/eslint-config-wox#readme",
+  "dependencies": {
+    "babel-eslint": "^7.2.3"
+  },
+  "peerDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
