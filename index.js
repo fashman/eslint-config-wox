@@ -1,7 +1,7 @@
 module.exports = {
   root: true,
 
-  parse: 'babel-eslint',
+  parser: 'babel-eslint',
 
   plugins: ['import', 'jsx-a11y', 'react'],
 
